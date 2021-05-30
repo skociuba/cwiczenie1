@@ -1,0 +1,15 @@
+{
+    "title": "Hello, world!",
+    "header": "Hello, world!",
+    "description": "To ćwiczenie z gita",
+    "links": [
+        {
+            "url": "http://seba.mjach.neteasy.pl/",
+            "title": "promy kosmiczne"
+        },
+        {
+            "url": "https://kosmonauta.net/",
+            "title": "kosmonauta net"
+        }
+    ]
+}
